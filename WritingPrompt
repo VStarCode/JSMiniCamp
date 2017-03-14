@@ -6,5 +6,12 @@ Functions (arguments, return)
 if statements
 Boolean values (true, false)
 
-Variables - A variable is a function used to give value to a string
-String - A string is
+Variables - A variable is a function which stores information temporarily until it's called by another function. It's similar to sheet of paper in that you can draw something on the paper, and it can be referenced later to achieve something related.
+
+Strings - A string is an series of characters which signifies something of given value. It represents and holds all the meaning of whatever we assign it to be. It's an object which can be a literal definition or a variable depending on how you code it.
+
+Functions - A function is a set of parameters or rules with a name, which can be set by the user within the code to act in some way. If I roll a ball down a hill, it can go any direction it wants, thus it would be considered to have variable parameters, but when using function declarations, you essentially create a path for the ball to roll through when it's designated to do so. This set of rules(a function) is also reusable so you can use the same path for other balls you plan to roll down the hill.
+
+If statements - An If statement is a block of code which checks if certain conditions are currently held by previous code. Depending on that, the If statement will proceed with another piece of code to produce a result. Similar to trains on a track with a splitting system. Train A would be on Rail 1 until it reaches the If statement. The If statement at this time checks to see if it should be on Rail 1 or Rail 2 at this point, depending on that result Train A will proceed down it's path.
+
+Boolean values - A boolean value is variable which can be either true or false. It is checked by previous code to see if Condition A or Condition B are met before proceeding. If we were thinking of a light switch, the boolean value would be the state of which position the lightswitch was in. The light switch being in the off position is a boolean value, eg. lightSwitchon = False.
